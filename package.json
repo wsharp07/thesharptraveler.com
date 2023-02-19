@@ -1,0 +1,24 @@
+{
+  "name": "thesharptraveler.com",
+  "version": "1.0.0",
+  "description": "Blog posts for [The Sharp Traveler](http://thesharptraveler.com)",
+  "main": "index.js",
+  "scripts": {
+    "start": "hugo server -s thesharptraveler.com -wDF --disableFastRender",
+    "build": "NODE_ENV=production hugo --gc"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.4.0",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.10",
+    "postcss-cli": "^8.3.1",
+    "postcss-import": "^14.0.1",
+    "tailwindcss": "^2.2.19"
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%",
+    "maintained node versions",
+    "not dead"
+  ]
+}
