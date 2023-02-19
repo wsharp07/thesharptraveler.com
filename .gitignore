@@ -14,7 +14,8 @@ vendor/*/
 *.bench
 *.debug
 coverage*.out
-
+thesharptraveler.com/public
+thesharptraveler.com/resources
 dock.sh
 
 GoBuilds

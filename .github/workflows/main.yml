@@ -27,8 +27,7 @@ jobs:
         extended: true
 
     - name: Build
-      working-directory: ./thesharptraveler.com
-      run: npm i && HUGO_ENVIRONMENT=production hugo --gc
+      run: npm i && HUGO_ENVIRONMENT=production hugo --gc -s thesharptraveler.com
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3.9.2
