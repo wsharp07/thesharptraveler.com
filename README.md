@@ -1,5 +1,5 @@
-# The Sharp Dev Website
-Blog posts for [The Sharp Dev](http://thesharpdev.com)
+# The Sharp Traveler Website
+Blog posts for [The Sharp Traveler](http://thesharptraveler.com)
 
 Content is statically generated thanks to [Hugo](https://gohugo.io/)!
 
@@ -20,14 +20,14 @@ git submodule update --recursive
 Starts a local Hugo server with drafts enabled
 
 ```bash
-make serve
+npm start
 ```
 
 ### Create a new post
 
 Adds a new post to the posts directory
 ```bash
-make post title="foobar"
+npm run create:post -- -t "Title"
 ```
 
 ### Github Actions

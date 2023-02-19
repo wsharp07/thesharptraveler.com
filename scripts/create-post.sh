@@ -3,7 +3,7 @@
 
 # Constants
 ROOT_DIR=thesharptraveler.com
-POST_PATH=content/posts
+POST_PATH=content/en/blog/2023
 
 # Set default values for title and folder
 title=""
@@ -43,8 +43,11 @@ mkdir -p $FOLDER_PATH
 
 # Create new post
 echo "---
+author: \"William Sharp\"
 title: \"$title\"
 date: $CURRENT_DATE
+description: \"This is a sample description\"
+tags: [\"tag1\", \"tag2\"]
+thumbnail: https://picsum.photos/id/1050/400/250
 draft: true
-hideWordCount: true
 ---" > $FOLDER_PATH/index.md

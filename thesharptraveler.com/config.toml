@@ -29,11 +29,6 @@ theme = 'blist'
         url = "tags"
         weight = 3
 
-    [[languages.en.menu.main]]
-        name = "Top Post"
-        url = "/en/blog/emoji-support/"
-        weight = 4
-
 [params]
   # Enable the darkmode toggle in header
   darkModeToggle = false
@@ -112,7 +107,7 @@ theme = 'blist'
 [params.homepage.social]
   # Global params common for both languages
   title = "Follow me"
-  description = "I work on everything coding and tweet developer memes"
+  description = "To learn the latest on my journey through Europe and Asia."
 
   [[params.homepage.social.icons]]
     website = "twitter"
