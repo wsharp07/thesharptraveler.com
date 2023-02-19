@@ -1,9 +1,9 @@
 ---
 author: "William Sharp"
 title: "The Adventure Begins"
-date: 2021-07-15
+date: 2023-02-19
 description: "Time to explore"
-tags: ["emoji"]
+tags: ["beginning"]
 thumbnail: https://picsum.photos/id/1050/400/250
 ---
 
