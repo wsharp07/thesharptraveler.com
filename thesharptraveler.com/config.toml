@@ -110,8 +110,5 @@ theme = 'blist'
   description = "To learn the latest on my journey through Europe and Asia."
 
   [[params.homepage.social.icons]]
-    website = "twitter"
-    url = "https://twitter.com/"
-  [[params.homepage.social.icons]]
     website = "instagram"
-    url = "https://instagram.com"
+    url = "https://www.instagram.com/thesharptraveler07/"
