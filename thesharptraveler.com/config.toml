@@ -57,7 +57,7 @@ theme = 'blist'
 
   # Custom copyright - optional
   copyright = "Copyright © 2023 - The Sharp Traveler · All rights reserved"
-  favicon = "/favicon.svg"
+  favicon = "/favicon.ico"
 
   # Color for the intro details and social links block, not applicable for dark mode
   # Supported values: Any color from TailwindCSS default colors
@@ -84,7 +84,7 @@ theme = 'blist'
   # This setting can also be in page's markdown file
   hidePageThumbnail = false
 
-  images = ['images/featured.jpg']
+  images = ['images/featured.png']
 
   # Comments system
 [params.comments]
