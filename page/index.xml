@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Sharp Traveler</title>
-    <link>https://thesharptraveler.com/</link>
-    <description>Recent content on The Sharp Traveler</description>
+    <title>Pages on The Sharp Traveler</title>
+    <link>https://thesharptraveler.com/page/</link>
+    <description>Recent content in Pages on The Sharp Traveler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://thesharptraveler.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://thesharptraveler.com/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://thesharptraveler.com/page/about/</link>
