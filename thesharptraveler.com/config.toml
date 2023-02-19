@@ -1,6 +1,6 @@
 baseURL = 'https://thesharptraveler.com/'
 languageCode = 'en-us'
-title = ''
+title = 'The Sharp Traveler'
 theme = 'blist'
 
 [languages]
@@ -11,8 +11,9 @@ theme = 'blist'
     [languages.en.params]
       introTitle = ""
       introSubtitle = ""
-      introPhoto = "/img/the-sharp-traveler-logo.svg"
+      introPhoto = "/images/the-sharp-traveler-logo.svg"
       logo = ""
+      description = "Blog about a one year journey across Europe and Asia"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
@@ -82,6 +83,8 @@ theme = 'blist'
   # Thumbnails in home and blog pages will still be shown
   # This setting can also be in page's markdown file
   hidePageThumbnail = false
+
+  images = ['images/featured.jpg']
 
   # Comments system
 [params.comments]
