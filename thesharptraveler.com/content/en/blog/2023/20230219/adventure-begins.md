@@ -1,9 +1,9 @@
 ---
 author: "William Sharp"
 title: "The Adventure Begins"
-date: 2023-06-02
-description: "A first in the series of posts"
-tags: ["beginning"]
+date: 2021-07-15
+description: "Time to explore"
+tags: ["emoji"]
 thumbnail: https://picsum.photos/id/1050/400/250
 ---
 

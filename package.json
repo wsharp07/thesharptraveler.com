@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "hugo server -s thesharptraveler.com -wDF --disableFastRender",
-    "build": "NODE_ENV=production hugo --gc",
+    "build": "NODE_ENV=production hugo --gc -s thesharptraveler.com",
     "create:post": "./scripts/create-post.sh"
   },
   "devDependencies": {
