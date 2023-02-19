@@ -1,5 +1,8 @@
 name: 'Build & Deploy'
 
+permissions:
+  contents: write
+
 on:
   workflow_dispatch:
   push:
@@ -31,6 +34,7 @@ jobs:
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3.9.2
+      if: github.ref == 'refs/heads/main'
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./thesharptraveler.com/public
