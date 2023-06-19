@@ -9,21 +9,45 @@ POST_PATH=content/en/blog/2023
 title=""
 folder=""
 
-# Process command line arguments
-while getopts "t:f:" opt; do
-  case $opt in
-    t)
-      title="$OPTARG"
-      ;;
-    f)
-      folder="$OPTARG"
-      ;;
-    \?)
-      echo "Invalid option: -$OPTARG" >&2
-      exit 1
-      ;;
-  esac
+# Function to display the help message
+display_help() {
+    echo "Usage: create:post [-f|--folder FOLDER] [-t|--title TITLE]"
+    echo "Options:"
+    echo "  -f, --folder FOLDER    Specify the folder"
+    echo "  -t, --title TITLE      Specify the title"
+    echo "  -h, --help             Display this help message"
+}
+
+
+# Parse command-line arguments
+while [[ $# -gt 0 ]]; do
+    case "$1" in
+        -f|--folder)
+            folder="$2"
+            shift 2
+            ;;
+        -t|--title)
+            title="$2"
+            shift 2
+            ;;
+        -h|--help)
+            display_help
+            exit 0
+            ;;
+        *)
+            echo "Invalid argument: $1"
+            display_help
+            exit 1
+            ;;
+    esac
 done
+
+# Check if the title argument is provided
+if [ -z "$title" ]; then
+    echo "Error: The title argument is required."
+    display_help
+    exit 1
+fi
 
 # Get the current ISO date
 today=$(date +%Y%m%d)
