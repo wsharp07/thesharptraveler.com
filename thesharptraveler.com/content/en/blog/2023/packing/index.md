@@ -1,14 +1,17 @@
 ---
-author: "William Sharp"
-title: "Packing"
-date: 2023-06-19
-description: "How to pack for the upcoming trip"
-tags: ["packing"]
-thumbnail: https://picsum.photos/id/1050/400/250
-draft: true
+author: William Sharp
+title: Packing
+date: 2023-07-27
+description: How to pack for the upcoming trip
+tags:
+  - packing
+thumbnail: /blog/2023/packing/images/packing.webp
+draft: false
+keywords:
+  - packing
 ---
 
-I've decided to take this trip with a minimal mindset by only traveling with a backpack and a day bag. For this process I drew inspiration from the subreddit [/r/onebag](https://www.reddit.com/r/onebag)
+I've decided to take this trip with a minimal mindset by only traveling with a backpack and a day bag. For this process, I drew inspiration from the subreddit [/r/onebag](https://www.reddit.com/r/onebag)
 
 For my backpacks I've selected:
 
@@ -17,7 +20,7 @@ For my backpacks I've selected:
 
 ## What am I bringing?
 
-### Cloths
+### Clothes
 
 1. (5) Gilden Crewneck T-Shirts
 2. (5) Under Armour Men's Tech 6-inch Boxerjock
@@ -35,13 +38,14 @@ For my backpacks I've selected:
 
 1. Macbook Pro 16 inch
 2. Anker PowerCore Slim 10K
-3. Magsafe Charger
-4. International European Travel Plug Adapter
+3. MagSafe Charger
+4. (2) International Travel Plug Adapter
+5. Various cables for connectivity and charging
 
 ### Documentation
 
-1. Passport in case with Airtag
-2. Photo copies of drivers license and passport
+1. Passport in a case with Airtag
+2. Photocopies of driver's license and passport
 
 ### Misc
 
@@ -51,10 +55,12 @@ For my backpacks I've selected:
 
 ## What am I buying when I arrive
 
-Some things I've decided are best to buy when I arrive to improve the easy of travel
+Some things I've decided are best to buy when I arrive to improve the ease of travel
 
 ### Toiletries
 
 1. Shampoo
 2. Soap
 3. Toothpaste
+4. Deodorant
+5. Nail clippers
