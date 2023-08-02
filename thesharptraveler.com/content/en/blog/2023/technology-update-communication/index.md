@@ -23,7 +23,7 @@ Since I'm traveling for an extended amount of time I chose to cancel my United S
 
 Unfortunately, if you just cancel your service, without transferring to another carrier, you will lose your number. Since your number is tied to many things, including Multifactor Authentication (MFA), keeping control of your number is essential.
 
-How did I keep my number? Quite simply, [Google Voice.](https://voice.google.com/about) Using their service you can port your number. The porting process requires an account number and Port Out PIN (which you can get from your carrier). Porting takes 24-48 hours and when completed your number will be registered on Google Voice, and your service with the carrier you ported from will be canceled. 
+How did I keep my number? Quite simply, [Google Voice.](https://voice.google.com/about) Using their service you can port your number for a small fee of $20. The porting process requires an account number and Port Out PIN (which you can get from your carrier). Porting takes on average 24-48 hours and when completed your number will be registered on Google Voice, and your service with the carrier you ported from will be canceled. 
 
 The beauty of Google Voice is that you can continue to use your phone number to receive text messages and make voice calls while overseas. This made it a seamless experience when traveling.
 
@@ -35,7 +35,11 @@ Now that I had my phone number with Google Voice I also needed cellular data so 
 
 A quick Google search showed many options for eSIM global carriers. I decided to give [Airalo](https://www.airalo.com/) a shot. Their service worked beautifully. I actually bought two eSIMs, one in the United States for the lapse of coverage when I transferred my number to Google Voice, and another to use across Europe.
 
-Installing the eSIMs was well documented and seamless. It took a few minutes for my cell data to kick in when I got off the plane in Spain, but once it did it has been working flawlessly. 
+Installing the eSIMs was well documented and seamless. It took a few minutes for my cell data to kick in when I got off the plane in Spain, but once it did it has been working flawlessly.
+
+Airalo works by partnering with local carriers to use their network. In Spain that included Movistar, Orange, and vodafone. Your phone will typically select the best carrier automatically, but you can also explicitly choose one.
+
+The speed of the service is also impressive. As I write this I'm traveling around Barcelona and 99% of areas have 5G. Not so much Airalo to thank, but just the robust cellular infrastructure of Spain.
 
 I'm very impressed with how well Airalo has been working and how seamless the setup process was.
 
@@ -52,5 +56,3 @@ There are a few apps I standardized on in order to stay in touch with folks back
 Using Google Voice combined with Airalo is working great for me. I'll make another post in the future to see if I share the same sentiment after a period of time.
 
 _stay #_
-
-
