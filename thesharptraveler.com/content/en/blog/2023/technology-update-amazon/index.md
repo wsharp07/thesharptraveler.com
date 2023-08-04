@@ -1,7 +1,7 @@
 ---
 author: William Sharp
 title: Using Amazon Overseas
-date: 2023-08-02
+date: 2023-08-04
 description: Is using Amazon overseas the same as in the States?
 tags:
   - technology
